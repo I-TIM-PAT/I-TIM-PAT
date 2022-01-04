@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-TIM-PAT
 - 👀 I’m interested in WebDev.
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML CSS JS
 - 🏫 I'm a student at Benjamarachutit School
 
 <!---
